@@ -100,7 +100,7 @@ namespace feedbacks
             httpRequest.Method = "POST";
             
             httpRequest.Accept = "*/*";
-            httpRequest.Headers["Authorization"] = "Bearer xoxp-2642558666709-2645553604339-2667927935524-ec86608a22d78b349ea03fd45a137892";
+            httpRequest.Headers["Authorization"] = "Bearer xoxp-**************-************-********************-*********************************";
             httpRequest.ContentType = "application/x-www-form-urlencoded";
             httpRequest.Headers["Content-Length"] = "0";
             
@@ -129,7 +129,7 @@ namespace feedbacks
             httpRequest.Method = "POST";
 
             httpRequest.Accept = "*/*";
-            httpRequest.Headers["Authorization"] = "Bearer xoxp-2642558666709-2645553604339-2667927935524-ec86608a22d78b349ea03fd45a137892";
+            httpRequest.Headers["Authorization"] = "Bearer xoxp-**************-************-********************-*********************************";
             httpRequest.ContentType = "application/x-www-form-urlencoded";
 
             var data = "query=feedback";
