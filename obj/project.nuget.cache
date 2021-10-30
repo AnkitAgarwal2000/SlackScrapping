@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "asylucIP5oW+xhVdbKy8GcifK7cjWpZmSxdr0LFzLAtNY9G5jor9GSglvbSBmrubf6K0sfowYLjXLTKDxf0wyw==",
+  "success": true,
+  "projectFilePath": "D:\\Coding_Files\\Scrapper\\feedbacks\\feedbacks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ankit Agarwal\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Ankit Agarwal\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512",
+    "C:\\Users\\Ankit Agarwal\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\Ankit Agarwal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
